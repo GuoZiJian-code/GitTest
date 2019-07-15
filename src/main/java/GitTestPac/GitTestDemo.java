@@ -7,7 +7,4 @@ public class GitTestDemo {
 	public void fun1() {
 		System.out.println("test....");
 	}
-	public static void main(String[] args) {
-		
-	}
 }
