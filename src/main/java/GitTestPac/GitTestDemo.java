@@ -1,5 +1,10 @@
 package GitTestPac;
 
-public class GitTestDemo {
+import org.junit.Test;
 
+public class GitTestDemo {
+	@Test
+	public void fun1() {
+		System.out.println("test....");
+	}
 }
