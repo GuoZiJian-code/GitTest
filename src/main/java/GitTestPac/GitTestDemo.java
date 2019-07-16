@@ -6,5 +6,6 @@ public class GitTestDemo {
 	@Test
 	public void fun1() {
 		System.out.println("test....");//WriteByGitTest
+		System.out.println("hot_fix test");
 	}
 }
